@@ -2,5 +2,7 @@ Welcome to Mohit's kitchen
 
 1.Butter chicken
 2.Pasta
+3.Beans
+4.Pizza
 
 Thank You :)
